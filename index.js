@@ -37,7 +37,6 @@ module.exports = function DeadlyGambleNotifier(mod) {
 
   allHooks.push(
     mod.hook("S_LOGIN", "raw", () => {
-      mod.log(mod.game.me.class);
       enabled = ["elementalist", "priest"].includes(mod.game.me.class);
     })
   );
