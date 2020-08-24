@@ -1,0 +1,11 @@
+{
+  "files": {
+    "README.md": "75b7027b421bd21bbf83f7c8ab3065cb44d3f3c11c9fd3a7783a3ce05baa105b",
+    "index.js": "8bb8f5cca22e01983051fcb91f6eb2cd2ffcf465313b4a7d9a6f9caa1dda8446",
+    "module.json": "2d5eb6a8d67a4bdd2cda32a2379f84e6fc79cfe4915bbb1dd1f2ed82b616e4c4"
+  },
+  "defs": {
+    "S_LOGIN": "raw",
+    "S_PARTY_MEMBER_ABNORMAL_ADD": 3
+  }
+}

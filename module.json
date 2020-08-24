@@ -1,0 +1,12 @@
+{
+  "disableAutoUpdate": false,
+  "name": "dg-notifier",
+  "author": "Laddeus",
+  "description": "Notifies healers of deadly gamble skill usage by warriors in the party.",
+  "options": {
+    "niceName": "Deadly Gamble Notifier",
+    "reloadable": true
+  },
+
+  "servers": ["https://raw.githubusercontent.com/Laddeus/dg-notifier/master/"]
+}
